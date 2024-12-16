@@ -1,8 +1,11 @@
 # TCP Chat App
-https://github.com/user-attachments/assets/d3b44ad1-d456-45d1-a363-594efb2390f0
+https://github.com/user-attachments/assets/9831fd50-9b42-4cfd-9cd9-dc3fcf1cb0b6
+
 
 In this app, two users can send messages to each other over the internet using the socket interface. First, a server is set up that can receive messages. Then, each user individually starts the program and connects to the server with their own unique
 username and port number. After both users have connected, they can send messages to one another via the unix terminal.
+
+In the video above, I have the server running in the top left terminal, user alice in the bottom left, and user bob in the top right.
 
 ## Setup
 
